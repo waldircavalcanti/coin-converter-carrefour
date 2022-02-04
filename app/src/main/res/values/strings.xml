@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coin Converter</string>
+    <string name="value">Valor</string>
+    <string name="has_internet">Sem conexão com a internet!</string>
+    <string name="saved_conversion">Cotação Salva!</string>
+    <string name="conversion_excluded">Cotação Excluida!</string>
+
+</resources>
