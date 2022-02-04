@@ -39,10 +39,10 @@ Algumas combinações de moeda a API não faz a conversão.
             src="https://github.com/waldircavalcanti/coin-converter-carrefour/blob/main/Screenshot_3.png" width="30%"
             title="all tasks">
     <img alt="all tasks"
-            src="https://github.com/waldircavalcanti/coin-converter-carrefour/blob/main/Screenshot_4.png" width="30%"
+            src="https://github.com/waldircavalcanti/coin-converter-carrefour/blob/main/Screenshot_5.png" width="30%"
             title="all tasks">
   <img alt="all tasks"
-            src="https://github.com/waldircavalcanti/coin-converter-carrefour/blob/main/Screenshot_5.png" width="30%"
+            src="https://github.com/waldircavalcanti/coin-converter-carrefour/blob/main/Screenshot_4.png" width="30%"
             title="all tasks">
   <img alt="all tasks"
             src="https://github.com/waldircavalcanti/coin-converter-carrefour/blob/main/Screenshot_6.png" width="30%"
