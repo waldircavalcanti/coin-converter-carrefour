@@ -7,7 +7,7 @@ Aplicativo desenvolvido no bootcamp Carrefour Android Developer [DIO](https://di
 O projeto tem o objetivo de criar uma aplicação para conversão de moedas e câmbio, usando padrões de projeto e
 boas práticas de programação em Kotlin.
 
-Modifiquei o Layout para uma melhor visualização e adicionei novos recursos para uma melhor interação com o usuário.
+Implementado novos recursos para uma melhor interação com o usuário.
 
 Algumas combinações de moeda a API não faz a conversão.
 [API](https://docs.awesomeapi.com.br/api-de-moedas)
