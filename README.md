@@ -56,6 +56,10 @@ Algumas combinações de moeda a API não faz a conversão.
 
 
 
+https://user-images.githubusercontent.com/64696649/152838780-c92a0522-06a0-4acf-8482-d62f3cc85af5.mp4
+
+
+
 
 
 
